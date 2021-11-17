@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    text-align: center;
+}
+
+.play-options img,
+.enemy-options img{
+    max-width:200px;
+    opacity: 0.3;
+    cursor: pointer;
+}
+
+.play-options ,
+.enemy-options {
+    width: 50%;
+}
+
+.aling{
+    display: flex;
+}
